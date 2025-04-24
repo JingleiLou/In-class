@@ -6,10 +6,10 @@ execute:
   echo: true
 
 book:
-  title: "YOUR PROJECT TITLE"
+  title: "Evaluating LIME Explanations on Heart Disease Prediction Models"
   author:
-    - AUTHOR1 (UNI1)
-    - AUTHOR2 (UNI2)
+    - Jiangnan Wan (jw4638)
+    - Jinglei Lou (jl6954)
   repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
   date: today
   page-footer:
